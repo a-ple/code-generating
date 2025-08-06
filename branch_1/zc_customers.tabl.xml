@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit>
+  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+    <asx:values>
+      <DDLANGUAGE>E</DDLANGUAGE>
+      <TABLE_CATALOG>ZSQL</TABLE_CATALOG>
+      <TABNAME>ZC_CUSTOMERS</TABNAME>
+      <DDTEXT>Customer master data table</DDTEXT>
+      <CONTFLAG>X</CONTFLAG>
+      <FIELDS>
+        <FIELD>
+          <FIELDNAME>KUNNR</FIELDNAME>
+          <KEYFLAG>X</KEYFLAG>
+          <DATATYPE>CHAR</DATATYPE>
+          <LENG>10</LENG>
+          <SHORTTEXT>Customer Number</SHORTTEXT>
+        </FIELD>
+        <FIELD>
+          <FIELDNAME>NAME</FIELDNAME>
+          <KEYFLAG></KEYFLAG>
+          <DATATYPE>CHAR</DATATYPE>
+          <LENG>40</LENG>
+          <SHORTTEXT>Customer Name</SHORTTEXT>
+        </FIELD>
+        <FIELD>
+          <FIELDNAME>COUNTRY</FIELDNAME>
+          <KEYFLAG></KEYFLAG>
+          <DATATYPE>CHAR</DATATYPE>
+          <LENG>3</LENG>
+          <SHORTTEXT>Country Code</SHORTTEXT>
+        </FIELD>
+      </FIELDS>
+    </asx:values>
+  </asx:abap>
+</abapGit>
