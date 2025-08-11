@@ -1,1 +1,0 @@
-This is a dummy file to check the folder creation for ABAP package Z_EMAIL_NOTIFICATION.
