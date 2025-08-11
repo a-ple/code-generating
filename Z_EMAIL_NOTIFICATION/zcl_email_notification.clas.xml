@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit>
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <CLSNAME>ZCL_EMAIL_NOTIFICATION</CLSNAME>
+   <DESCRIPT>Send email with optional Excel attachments</DESCRIPT>
+   <LANGU>E</LANGU>
+   <R3STATE>A</R3STATE>
+   <CLSTYPE>1</CLSTYPE>
+   <FIXPT>X</FIXPT>
+   <UNAM>DEVELOPER</UNAM>
+   <UDAT>20240607</UDAT>
+   <VERSION>1</VERSION>
+  </asx:values>
+ </asx:abap>
+</abapGit>
