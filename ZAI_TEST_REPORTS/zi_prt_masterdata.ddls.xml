@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit>
+  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+    <asx:values>
+      <DDLSNAME>ZI_PRT_MASTERDATA</DDLSNAME>
+      <PACKAGE>ZAI_TEST_REPORTS</PACKAGE>
+      <DCLSCLSNAME/>
+      <DCLSOBJNAME/>
+      <OBJTYPE>DDLS</OBJTYPE>
+      <TEXT>Purchase Requisition Header Master Data</TEXT>
+      <LANGU>E</LANGU>
+      <STATE>4</STATE>
+      <ACTIVAT>20230620</ACTIVAT>
+    </asx:values>
+  </asx:abap>
+</abapGit>
