@@ -1,0 +1,7 @@
+CDS doesn't exist:
+- MPOS
+- PLKZ
+- CRTX
+- CRFH
+Existing CDS:
+- None of the above tables have associated CDS views in search results.
