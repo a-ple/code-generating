@@ -1,7 +1,0 @@
-CDS doesn't exist:
-- MPOS
-- PLKZ
-- CRTX
-- CRFH
-Existing CDS:
-- None found for tables used in report
